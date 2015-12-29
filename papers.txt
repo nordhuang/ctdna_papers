@@ -1,0 +1,4 @@
+1.
+结果发现，肿瘤DNA通常可在血液样本中检测到。例如，6月5日在《JAMA Oncology》发表的一项研究中，研究人员检测了4000多名孕妇的血液样本——为了确定胎儿中的染色体异常而抽取的，确定了3例孕产妇患有癌症：1 例卵巢癌，1例滤泡性淋巴瘤，和1例霍奇金淋巴瘤。在大多数的这些肿瘤中，即使是低等级的肿瘤，也可以通过一个人的血液检测出来。
+name:Presymptomatic Identification of Cancers in Pregnant Women During Noninvasive Prenatal Testing
+url:http://oncology.jamanetwork.com/article.aspx?articleid=2318964
