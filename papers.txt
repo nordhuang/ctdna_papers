@@ -2,3 +2,10 @@
 结果发现，肿瘤DNA通常可在血液样本中检测到。例如，6月5日在《JAMA Oncology》发表的一项研究中，研究人员检测了4000多名孕妇的血液样本——为了确定胎儿中的染色体异常而抽取的，确定了3例孕产妇患有癌症：1 例卵巢癌，1例滤泡性淋巴瘤，和1例霍奇金淋巴瘤。在大多数的这些肿瘤中，即使是低等级的肿瘤，也可以通过一个人的血液检测出来。
 name:Presymptomatic Identification of Cancers in Pregnant Women During Noninvasive Prenatal Testing
 url:http://oncology.jamanetwork.com/article.aspx?articleid=2318964
+
+2.
+Science：从正常细胞入手挖掘癌变的秘密
+研究揭示，正常面部皮肤中的每个细胞都携带着成千上万的突变，主要是由于日光照射所引起。事实上，无癌症人群样本中大约25%的皮肤细胞都被发现携带着至少一个癌症相关突变。
+研究人员对取自4位患者的234个活组织标本进行了超深度基因测序揭示出了3,760个突变，每平方厘米的皮肤都有100多个癌症相关突变。具有这些突变的细胞形成了克隆，生长至正常克隆的约2倍大小，但其中没有一个变为癌症。
+name:High burden and pervasive positive selecion of somatic mutations in normal human skin
+intro_url:http://science.bio1000.com/cell/201505/499.html
